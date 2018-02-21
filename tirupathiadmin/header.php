@@ -16,6 +16,7 @@
 	<!--bootstrap -->
     <link href="assets/tether/css/tether.min.css" rel="stylesheet" type="text/css" />
 	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+	<link href="css/bootstrapValidator.min.css" rel="stylesheet" type="text/css" />
     <!-- Material Design Lite CSS -->
 	 <link href="assets/datatables/plugins/bootstrap/dataTables.bootstrap4.min.css" rel="stylesheet" type="text/css"/>
 	<link rel="stylesheet" href="assets/material/material.min.css">

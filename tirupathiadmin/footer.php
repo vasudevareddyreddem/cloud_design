@@ -6,6 +6,7 @@
 	<script src="assets/jquery.slimscroll.js"></script>
     <!-- bootstrap -->
     <script src="assets/bootstrap/js/bootstrap.min.js" ></script>
+    <script src="assets/bootstrapValidator.min.js" ></script>
     <script src="assets/bootstrap-switch/js/bootstrap-switch.min.js" ></script>
     <!-- counterup -->
 	<!-- data tables -->

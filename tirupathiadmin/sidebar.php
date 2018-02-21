@@ -75,6 +75,11 @@
 	                            </a>
 	                        </li>
 							<li class="nav-item  ">
+	                            <a  href="validations.php" class="nav-link "> <i class="material-icons">person</i>
+	                                <span class="title">Form validations</span> <span class="arrow"></span>
+	                            </a>
+	                        </li>
+							<li class="nav-item  ">
 	                            <a  href="index.php" class="nav-link "> <i class="material-icons">person</i>
 	                                <span class="title">Logout</span> <span class="arrow"></span>
 	                            </a>
