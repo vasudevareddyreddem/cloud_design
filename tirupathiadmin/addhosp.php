@@ -66,9 +66,6 @@
 											  <label for="email">Email</label>
 											  <input type="email" class="form-control"  placeholder="Enter email" >
 											</div>
-											
-										
-										
 											<div class="form-group col-md-6">
 											  <label for="email">National ID</label>
 											  <input type="text" class="form-control"  placeholder="Adhar Id" >
