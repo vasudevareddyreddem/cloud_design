@@ -84,9 +84,12 @@
 	                                
 	                            </ul>
 	                        </li>
-	                       
-							
 						
+							<li class="nav-item  ">
+	                            <a  href="view.php" class="nav-link "> <i class="material-icons">person</i>
+	                                <span class="title">Hospital View</span> <span class="arrow"></span>
+	                            </a>
+	                        </li>
 							<li class="nav-item  ">
 	                            <a  href="index.php" class="nav-link "> <i class="material-icons">person</i>
 	                                <span class="title">Logout</span> <span class="arrow"></span>
