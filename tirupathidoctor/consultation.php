@@ -660,7 +660,7 @@
                 <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
 
             </div>
-            <div class="modal-body">
+            <div class="modal-body" style="height:400px;overflow:hidden; overflow-y: scroll;">
                 <div class="">
                     <div class="">
                         <div class=" card card-topline-red">
